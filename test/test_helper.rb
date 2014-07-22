@@ -1,5 +1,6 @@
 $LOAD_PATH << 'lib'
 require 'minitest/autorun'
+require 'my_vector'
 
 # When adding a new ruby implementation file to your lib directory,
 # explicitly require it here like:
